@@ -1,6 +1,15 @@
 # InterviewPrep
 DataStructures and Algorithms, Javascript, React , Redux
 
-## Branch - Algorithms
+## Algorithms
 
-### 26/12/2020 - Quick Sort
+### Quick Sort
+### Merge Sort
+### Bubble Sort
+
+## Javascript
+#### Differences
+    * == & ===
+    * null, undefined & not defined     
+
+
