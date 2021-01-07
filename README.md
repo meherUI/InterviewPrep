@@ -6,6 +6,7 @@ DataStructures and Algorithms, Javascript, React , Redux
 ### Quick Sort
 ### Merge Sort
 ### Bubble Sort
+### Selection Sort
 
 ## Javascript
 #### Differences
