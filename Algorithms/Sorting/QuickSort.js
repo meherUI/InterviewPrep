@@ -12,4 +12,4 @@ function QuickSort(arr){
     return [...QuickSort(left), pivot, ...QuickSort(right)]
 }
 
-QuickSort([40,23,10,45,30,49,50,20,80,75,12,60])
+QuickSort([40,23,10,45,30,49,50,20,80,75,12,60,45])
